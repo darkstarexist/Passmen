@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<autofill-service xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Define autofill entries for username and password fields -->
+    <autofill-entry
+        android:hint="username"
+        android:inputType="text" />
+
+    <autofill-entry
+        android:hint="password"
+        android:inputType="textPassword" />
+
+    <!-- Additional entries for other fields (optional) -->
+    <autofill-entry
+        android:hint="email"
+        android:inputType="textEmailAddress" />
+</autofill-service>

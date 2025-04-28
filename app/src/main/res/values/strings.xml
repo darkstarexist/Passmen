@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Passmen</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="length">Length</string>
+    <string name="passwords">Passwords</string>
+    <string name="email">Email id</string>
+    <string name="site">Site Name</string>
+    <string name="sitehint">Enter the Site name…</string>
+    <string name="phone">Phone Number</string>
+    <string name="usernamehint">Enter your username…</string>
+    <string name="username_hint">Enter the username…</string>
+    <string name="phonehint">Enter your Mobile No…</string>
+    <string name="passwordhint">Enter your password…</string>
+    <string name="password_hint">Enter the password…</string>
+    <string name="size_hint">Enter the password length…</string>
+    <string name="repasswordhint">Enter your password again…</string>
+    <string name="verifytitle">We\'ve sent a verification email. Please check your inbox and then click Continue.</string>
+    <string name="code">Code</string>
+    <string name="emailhint">Enter your Email…</string>
+    <string name="signin_title">Sign In to Passmen</string>
+    <string name="signup">Sign Up</string>
+    <string name="signin">Login</string>
+    <string name="signup_title">Sign Up to Passmen</string>
+    <string name="icon">icon</string>
+    <string name="Rememberme">Remember me</string>
+    <string name="remember_me">Remember me</string>
+    <string name="verify">Verify</string>
+    <string name="continuetxt">Continue</string>
+    <string name="verification">Verification</string>
+    <string name="renterpassword">Confirm Password</string>
+    <string name="logout">Logout</string>
+    <string name="save">Save Password</string>
+    <string name="bin">bin</string>
+    <string name="put_site_name_here">Put site name here</string>
+    <string name="copy">copy</string>
+    <string name="recycleview">Recycleview</string>
+
+
+</resources>
