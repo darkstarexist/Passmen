@@ -21,7 +21,7 @@ If you want to use it fully, follow these steps:
 
 2. **Set up Firebase for Android:**
     - Click **"Add app"** ➔ **Android**.
-    - Enter your app's package name (e.g., `com.yourcompany.passmen`).
+    - Enter your app's package name (e.g., `com.example.passmen`).
     - Download the generated `google-services.json` file.
 
 3. **Place `google-services.json` inside your project:**
